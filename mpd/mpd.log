@@ -1,0 +1,6 @@
+Dec 07 10:36 : state_file: Unrecognized line in state file: ## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+Dec 07 10:36 : state_file: Unrecognized line in state file: ## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+Dec 07 10:36 : state_file: Unrecognized line in state file:
+Dec 07 10:36 : avahi: Service 'Music Player @ archcraft-virtualbox' successfully established.
+Dec 07 11:00 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Dec 07 11:03 : avahi: Service 'Music Player @ archcraft-virtualbox' successfully established.
